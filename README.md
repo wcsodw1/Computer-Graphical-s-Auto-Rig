@@ -10,7 +10,7 @@ Create Inviroment : Install UBUNTU(Linux)/ CUDA(GPU)/ Divide Hard-drive/
 2.Main Code : 3 Main Python Code in running this project 
 3.Result : To Show the AnimatedVolSkeleton Reappear character/ 
 
-![image](../AVS.jpg)
+![image](AVS.jpg)
 
 ## Other Contribute : 
 Complete the preprocess work "Voxelization" for Pinocchio runinng 
