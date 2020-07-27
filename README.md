@@ -28,6 +28,7 @@ Create Inviroment :
 -  Complete the preprocess work "Voxelization" for Pinocchio runinng <br>
 
 ## The Processing flow : 
-    - From a.(.OBJ/.FBX) -> b.Vexlization -> c.Pinocchio
+
+-  From a.(.OBJ/.FBX) -> b.Vexlization -> c.Pinocchio
 ![image](Auto_Rig.png)
 
