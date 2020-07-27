@@ -18,6 +18,7 @@ Create Inviroment :
 ![Paper](Paper.JPG)
 
     2.Main Code : 3 Main Python Code in running this project <br>
+    - Will be update soon 
 
     3.Result : Reappear the Paper's Auto-Rigging <br>
 
