@@ -13,7 +13,9 @@ Create Inviroment : Install UBUNTU(Linux)/ CUDA(GPU)/ Divide Hard-drive/
 ![image](AVS.jpg)
 
 ## Other Contribute : 
-Complete the preprocess work "Voxelization" for Pinocchio runinng <br>
+- Complete the preprocess work "Voxelization" for Pinocchio runinng <br>
 
+- The Processing Flow from : 
+    - a.(.OBJ/.FBX) -> b.Vexlization -> c.Pinocchio
 ![image](Auto_Rig.png)
 
