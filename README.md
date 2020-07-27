@@ -9,9 +9,9 @@ Create Inviroment :
     - Divide Hard-drive/ 
 
 ## B.Main Contribute : 
-    - 1.Paper-Study :  AnimatedVolSkeleton/ Others Related-Work Paper <br>
+    - 1.Implement Paper  :  AnimatedVolSkeleton/ Others Related-Work Paper <br>
         - http://github.com - automatic!
-[GitHub](https://arxiv.org/pdf/1908.08506.pdf)
+[Paper's Link Siggraph 2019Aug](https://arxiv.org/pdf/1908.08506.pdf)
         
 ![Paper](Paper.JPG)
 
