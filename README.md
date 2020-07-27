@@ -1,4 +1,4 @@
-# Computer-Graphical-Auto_Rig
+# Computer Graphical's AutoRig
 Auto_Rigging in Computer Graphical
 
 
