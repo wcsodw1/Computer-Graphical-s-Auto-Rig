@@ -3,7 +3,10 @@ Auto_Rigging in Computer Graphical
 
 
 ## A.Front-end work : 
-Create Inviroment : Install UBUNTU(Linux)/ CUDA(GPU)/ Divide Hard-drive/ 
+Create Inviroment : 
+    - Install UBUNTU(Linux)
+    - CUDA(GPU)
+    - Divide Hard-drive/ 
 
 ## B.Main Contribute : 
     - 1.Paper-Study :  AnimatedVolSkeleton/ Others Related-Work Paper <br>
