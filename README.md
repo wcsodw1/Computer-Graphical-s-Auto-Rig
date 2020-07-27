@@ -10,7 +10,8 @@ Create Inviroment :
 
 ## B.Main Contribute : 
     - 1.Paper-Study :  AnimatedVolSkeleton/ Others Related-Work Paper <br>
-        - https://arxiv.org/pdf/1908.08506.pdf
+        - http://github.com - automatic!
+[GitHub](https://arxiv.org/pdf/1908.08506.pdf)
         
 ![Paper](Paper.JPG)
 
